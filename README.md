@@ -164,12 +164,12 @@ Potential enhancements include:
 ## 📸 Application Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-### Customer Management
 ![Customers](screenshots/customers.png)
 
-### Order Management
+### Customer Management
+![Customer](screenshots/dashboard.png)
+
+### Billing
 ![Orders](screenshots/orders.png)
 
 ### Billing and Payments
