@@ -161,6 +161,20 @@ Potential enhancements include:
 * Additional automated integration tests
 * Deployment and database setup documentation
 
+## 📸 Application Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Customer Management
+![Customers](screenshots/customers.png)
+
+### Order Management
+![Orders](screenshots/orders.png)
+
+### Billing and Payments
+![Billing](screenshots/billing.png)
+
 ## 👨‍💻 Author
 
 **Priyanshu**
